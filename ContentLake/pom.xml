@@ -9,8 +9,8 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.caliber</groupId>
-	<artifactId>chnmntwork</artifactId>
+	<groupId>com.vish</groupId>
+	<artifactId>contentlake</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>searchportalservices</name>
 	<description>Portal for Chennai </description>
@@ -20,10 +20,9 @@
 		<azure.version>2.2.0</azure.version>
 
 		<jib-maven-plugin.version>1.7.0</jib-maven-plugin.version>
-		<docker.image.prefix>caliber.azurecr.io</docker.image.prefix>
-
-		<username>caliber</username>
-		<password>fxC6WYSvu7Y+C5UoyGYXBPgXNukIKXah</password>
+		<docker.image.prefix></docker.image.prefix>
+		<username></username>
+		<password></password>
 	</properties>
 
 	<dependencies>
